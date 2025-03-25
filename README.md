@@ -52,7 +52,7 @@ A key innovation in this project is the **"Initializing Switch"**, which prevent
 
 ## Schematic (Proteus Simulation)
 The **8051 microcontroller** ports are configured as follows:
-T| Port | Function |
+| Port | Function |
 |------|------------------------------------------------|
 | **Port 1 (P1.x)** | Push buttons for party selection |
 | **Port 2 (P2.x)** | LCD data lines |
