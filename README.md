@@ -5,7 +5,11 @@ Block Diagram:
 ![image](https://github.com/user-attachments/assets/d9b200bd-df24-4572-8366-e6284fb1f6a0)
 
 Algorithm:
+
 ![image](https://github.com/user-attachments/assets/452f207f-daa1-4add-90cb-fb640f7f05c3)
 
 Schematic using Proteus Simulation:
 ![image](https://github.com/user-attachments/assets/559928df-0d23-4fdd-ae65-ab96c6ed56e9)
+
+Hardware Setup:
+![image](https://github.com/user-attachments/assets/5b024cf8-9687-48bd-b786-c7020f3e2f26)
